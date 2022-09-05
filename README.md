@@ -1,7 +1,5 @@
 # **Análise Exploratória de Dados de Logística**
 
-Este é o primeiro projeto de análise exploratória de dados com Python do curso Profissão: Analista de Dados, da Escola Britânica de Artes Criativas e Tecnologia (EBAC), e foi realizado com a orientação do professor André Perez.
-
 *  **[Link para o notebook publicado no Kaggle](https://www.kaggle.com/code/carlosmagnopbjunior/an-lise-explorat-ria-de-dados-de-log-stica/notebook)**
 
 
@@ -40,7 +38,7 @@ O dado bruto utilizado é um arquivo do tipo JSON que possui uma lista de instâ
 ...
 
 ```
-Estes dados são um subconjunto dos ados originais presentes [no Git Hub da Loggi](https://github.com/loggi/loggibud/blob/master/docs/quickstart.md) e foi consolidado pelo professor da EBAC André Perez. Ele consolidou em um único arquivo as instâncias de terino de cvrp da cidade de Brasília.
+Estes dados são um subconjunto dos ados originais presentes [no Git Hub da Loggi](https://github.com/loggi/loggibud/blob/master/docs/quickstart.md) e foi consolidado por André Perez. Ele consolidou em um único arquivo as instâncias de terino de cvrp da cidade de Brasília.
 
 ## Descrição dos dados: 
 
